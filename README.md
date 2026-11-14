@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Adham (wertx2706) 👋
 
-<!--
-**wertx2706/wertx2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineering Student** | 🛡️ **Cybersecurity & CTF Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 1st-year Software Engineering undergraduate at **Cyber University**.
+- 🚩 Preparing for **Red Team** & **CTF** competitions (Cryptography, Linux, Pentesting) and pursuing **OSCP** track.
+- 💻 Building interactive web applications, solving algorithmic challenges in **C++**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** `C++` `Python` `JavaScript` `HTML5` `CSS3`
+- **Cybersecurity & Systems:** `Linux` `Bash` `Git` `Cryptography (RSA, Ciphers)`
+- **Tools & Docs:** `VS Code` `LaTeX (Overleaf)` `GitHub`
+
+---
+
+### 📊 GitHub Stats
+
+![wertx2706's GitHub stats](https://github-readme-stats.vercel.app/api?username=wertx2706&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+### 🌐 Profiles & Handles
+- 🏆 **Codeforces:** `G_Creator`
+- 🛡️ **CyLab / Cybersecurity:** `G1Graywert`
